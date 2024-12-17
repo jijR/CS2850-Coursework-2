@@ -1,0 +1,3 @@
+Brian Kernighan and Dennis Richie
+wrote
+"THE C PROGRAMMING LANGUAGE"

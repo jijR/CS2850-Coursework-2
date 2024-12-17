@@ -1,0 +1,10 @@
+Brian Kernighan and Dennis Richie
+wrote
+"THE C PROGRAMMING LANGUAGE"
+
+which 
+is the textbook of CS2850.
+C_S_*
+The second 
+edition, published in 1988, 
+describes C as defined by the ANSI standard. 
